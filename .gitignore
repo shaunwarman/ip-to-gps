@@ -1,1 +1,8 @@
 node_modules
+.idea
+dist
+npm-debug.log
+assets
+*/node_modules
+logs/*
+.DS_Store
