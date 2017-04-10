@@ -1,6 +1,6 @@
 {
   "name": "ip-to-gps",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "An IP address to GPS coordinates package",
   "main": "index.js",
   "scripts": {
