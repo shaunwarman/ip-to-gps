@@ -2,7 +2,7 @@
 An IP to GPS coordinates package
 
 ### Overview
-A simple way to get [GPS information](#Response) from IP address.
+A simple way to get [GPS information](#response) from IP address.
 
 ### Install
 `npm install -S ip-to-gps`
